@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "saritasa\\Yii2\\GooglePlacesAutoComplete\\": "src/"
+            "saritasa\\yii2\\GooglePlacesAutoComplete\\": "src"
         }
     }
 }
